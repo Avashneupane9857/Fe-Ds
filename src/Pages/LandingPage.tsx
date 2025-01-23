@@ -6,7 +6,7 @@ import SubHero from "../sections/SubHero";
 
 function LandingPage() {
   return (
-    <div className="bg-[#070707] h-100vh">
+    <div className="bg-[#070707] min-h-screen w-screen ">
       <Navbar />
       <Hero />
       <SubHero />
