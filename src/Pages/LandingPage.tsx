@@ -5,17 +5,17 @@
 // import Ft from "../sections/Ft";
 import Hero from "../sections/Hero";
 import Navbar from "../sections/Navbar";
+import SubHero from "../sections/SubHero";
 // import RedSec from "../sections/RedSec";
 // import SubFt from "../sections/SubFt";
-// import SubHero from "../sections/SubHero";
 
 function LandingPage() {
   return (
     <div className="bg-[#070707] min-h-screen">
       <Navbar />
       <Hero />
-      {/* <SubHero />
-      <Brands />
+      <SubHero />
+      {/* <Brands />
       <RedSec />
       <BlackSec />
       <Banner />

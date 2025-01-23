@@ -27,6 +27,11 @@ function Hero() {
           create <span className="">---</span> your story
         </div>
       </header>
+      <div className="bg-white absolute right-0 top-65  w-10 p-2   h-36">
+        {" "}
+        <h1 className="font-bold text-2xl pb-6 ">W.</h1>
+        <h1 className="transform rotate-90">Honors</h1>
+      </div>
     </div>
   );
 }
