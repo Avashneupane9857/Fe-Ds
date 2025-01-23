@@ -1,5 +1,5 @@
 function Ft() {
-  return <div>Ft</div>;
+  return <div className="text-white text-4xl">asjflasfjsalfjas</div>;
 }
 
 export default Ft;

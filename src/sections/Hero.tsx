@@ -3,7 +3,7 @@ import { design, flower } from "../assets";
 function Hero() {
   return (
     <div className="relative top-14 ">
-      <div className="flex flex-col items-center">
+      <div className="flex animate-spin flex-col items-center">
         {" "}
         <img className="w-14" src={flower} alt="" />
       </div>
