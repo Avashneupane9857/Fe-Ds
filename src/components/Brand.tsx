@@ -1,4 +1,3 @@
-import { Features } from "tailwindcss";
 import { brand1, brand2, brand3, icon1, icon2, icon3 } from "../assets";
 const brands = [
   {
@@ -37,11 +36,13 @@ function Brand() {
           </div>
 
           <div className="flex gap-2 ">
-            <div>
-              <div className="w-32 text-center h-5 text-black bg-white ">
-                <h1>{features.tags}</h1>
+            {features.tags.map((tags, index) => (
+              <div key={index}>
+                <div className="w-32 text-center h-5 text-black bg-white ">
+                  <h1>{tags}</h1>
+                </div>
               </div>
-            </div>
+            ))}
           </div>
         </>
       ))}
