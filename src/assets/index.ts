@@ -16,6 +16,7 @@ import icon3 from "./icon3.svg"
 import icon4 from "./icon4.svg"
 export {
     DsLogo,menu,design,flower,o,circles,brand1,brand2,brand4,
-    brand3,icon1,icon2,icon3,icon4
+    brand3,icon1,icon2,icon3,icon4,
+    
 
 }
