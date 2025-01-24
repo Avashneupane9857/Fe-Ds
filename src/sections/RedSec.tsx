@@ -15,9 +15,9 @@ function RedSec() {
 
         <h1 className="font-thin relative top-48">Y e a h</h1>
       </div>
-      <div className="relative left-72">
+      <div className="relative left-15  w-[70%] mx-auto">
         <img src={radius} alt="" />
-        <div className="text-xl   w-[800px] absolute top-20 left-20 ">
+        <div className="text-xl  absolute top-20 left-20 ">
           <section className="flex gap-2">
             <div className="relative top-4 w-[350px]">
               {" "}
