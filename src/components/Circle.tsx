@@ -4,7 +4,7 @@ function Circle() {
   return (
     <div>
       {" "}
-      <img src={circles} alt="" />
+      <img src={circles} className="" alt="" />
     </div>
   );
 }

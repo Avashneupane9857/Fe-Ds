@@ -2,7 +2,7 @@ import { Be, fb, insta, ln, pt, spo } from "../assets";
 
 function Ft() {
   return (
-    <div className="w-[80%] h-auto flex flex-col gap-18 py-10 bg-black  text-white  mx-auto ">
+    <div className="w-[80%] h-auto flex flex-col gap-18  bg-black  text-white  mx-auto ">
       <div className="flex justify-between bg-black font-light text-[12px] w-[70%] mx-auto">
         <h1>Politique de confidentialité</h1>
         <h1>Politique des cookies</h1>

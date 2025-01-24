@@ -9,7 +9,7 @@ function SubHero() {
           CREATING
           <div className="flex">
             <h1>L</h1>
-            <img src={o} alt="" />
+            <img src={o} className="animate-spin" alt="" />
             VE BRANDS
           </div>
         </h1>

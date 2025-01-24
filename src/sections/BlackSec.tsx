@@ -6,8 +6,8 @@ function BlackSec() {
       <div className="bg-white h-[0.3px] opacity-40  w-full"></div>
 
       <div className="flex justify-end gap-70 relative top-16 right-36 ">
-        <img className="relative top-28" src={sunflower} alt="" />
-        <img className="" src={box} alt="" />
+        <img className="relative top-28 " src={sunflower} alt="" />
+        <img className="animate-spin" src={box} alt="" />
       </div>
       <div className="text-5xl items-end relative bottom-14 right-60 tracking-widest flex flex-col gap-3">
         <h1>CA S'ÈCRIT</h1>

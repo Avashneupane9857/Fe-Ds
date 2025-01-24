@@ -15,7 +15,7 @@ function Hero() {
         </div>
         <div className="text-[#EDF738]   ">
           <img src={design} alt="" />
-          <div className="text-[80px] text-center -top-1.5 font-bold leading-24 tracking-widest absolute left-0 w-full h-full">
+          <div className="text-[80px]  text-center -top-1.5 font-bold leading-24 tracking-widest absolute left-0 w-full h-full">
             <h1>REVEAL</h1>
             <h1>THE BE[A]ST</h1>
           </div>

@@ -1,4 +1,4 @@
-import { brand1, brand2, brand3, brand4 } from "../assets";
+import { brand2, brand3 } from "../assets";
 
 interface ImageData {
   src: string;
@@ -10,24 +10,12 @@ interface ImageData {
 const imageData: ImageData[] = [
   {
     src: brand2,
-    alt: "Image 1",
-    companyName: "SACRÉ ARMAND",
-    services: ["COPYWRITING", "STRATÉGIE ÉDITORIALE", "BRAND CONTENT"],
-  },
-  {
-    src: brand1,
-    alt: "Image 2",
-    companyName: "SMOTEO",
-    services: ["STRATÉGIE DE MARQUE", "COPYWRITING", "DESIGN"],
-  },
-  {
-    src: brand3,
     alt: "Image 3",
     companyName: "NIIR",
     services: ["COMMUNICATION", "STRATÉGIE DE MARQUE", "STRATÉGIE ÉDITORIALE"],
   },
   {
-    src: brand4,
+    src: brand3,
     alt: "Image 4",
     companyName: "YOKITUP",
     services: [

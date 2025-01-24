@@ -27,8 +27,9 @@ import ln from "./lin.png"
 import Be from "./Be.png"
 import pt from "./pt.png"
 import spo from "./spo.png"
+import phone from "./phoneanimation.json"
 export {
-    DsLogo,menu,design,flower,o,circles,brand1,brand2,brand4,
+    DsLogo,menu,design,flower,o,circles,brand1,brand2,brand4,phone,
     iconic,wordIcon,table, brand3,icon1,icon2,icon3,icon4,radius,box,women,sunflower,worm,insta,fb,ln,Be,pt,spo
     
 
