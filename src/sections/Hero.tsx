@@ -10,7 +10,7 @@ function Hero() {
 
       <header className=" w-[88%] mx-auto relative top-18 flex justify-between">
         {" "}
-        <div className="text-[#EDF738] relative top-32">
+        <div className="text-[#EDF738] text relative top-32">
           act <span>---</span> together
         </div>
         <div className="text-[#EDF738]   ">
@@ -23,11 +23,11 @@ function Hero() {
             HYPEREALIST
           </button>
         </div>
-        <div className="text-[#EDF738] relative top-32">
+        <div className="text-[#EDF738] text2 relative top-32">
           create <span className="">---</span> your story
         </div>
       </header>
-      <div className="bg-white absolute right-0 top-65  w-10 p-2   h-36">
+      <div className="bg-white absolute whiteBox right-0 top-65  w-10 p-2   h-36">
         {" "}
         <h1 className="font-bold text-2xl pb-6 ">W.</h1>
         <h1 className="transform rotate-90">Honors</h1>

@@ -25,7 +25,60 @@
 
 .Design{
   animation: fade-down 3s;
-
-
 }
 
+
+@keyframes slideIn {
+  0%{
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.text{  
+  animation: slideIn 3s ease forwards;
+}
+
+
+
+
+
+@keyframes slideIn2 {
+  0%{
+    opacity: 0;
+    transform: translateX(50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+
+.text2{
+  animation: slideIn2 3s  forwards;
+}
+
+
+
+
+
+@keyframes kasney {
+  0%{
+    opacity: 0;
+    transform: translateY(-50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+
+.whiteBox{
+  animation: kasney 3s  forwards;
+}
