@@ -4,6 +4,7 @@ import Brands from "../sections/Brands";
 import Hero from "../sections/Hero";
 import Navbar from "../sections/Navbar";
 import RedSec from "../sections/RedSec";
+import SubFt from "../sections/SubFt";
 
 import SubHero from "../sections/SubHero";
 
@@ -17,9 +18,8 @@ function LandingPage() {
       <RedSec />
       <BlackSec />
       <Banner />
-      {/* <Clients /> */}
-      {/* <SubFt />
-      <Ft /> */}
+      <SubFt />
+      {/* <Ft /> */}
     </div>
   );
 }
