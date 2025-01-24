@@ -20,9 +20,10 @@ import women from "./women.png"
 import sunflower from "./sunflower.svg"
 import table from "./table2.png"
 import worm from "./worm.svg"
+import wordIcon from "./worICon.svg"
 export {
     DsLogo,menu,design,flower,o,circles,brand1,brand2,brand4,
-    iconic,table, brand3,icon1,icon2,icon3,icon4,radius,box,women,sunflower,worm
+    iconic,wordIcon,table, brand3,icon1,icon2,icon3,icon4,radius,box,women,sunflower,worm
     
 
 }
