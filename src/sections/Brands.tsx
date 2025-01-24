@@ -1,5 +1,5 @@
 import Brand from "../components/Brand";
-import Circle from "../components/circle";
+import Circle from "../components/Circle";
 
 function Brands() {
   return (
