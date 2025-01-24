@@ -1,3 +1,4 @@
+import Banner from "../sections/Banner";
 import BlackSec from "../sections/BlackSec";
 import Brands from "../sections/Brands";
 import Hero from "../sections/Hero";
@@ -15,9 +16,9 @@ function LandingPage() {
       <Brands />
       <RedSec />
       <BlackSec />
-      {/* <Banner />
-      <Clients />
-      <SubFt />
+      <Banner />
+      {/* <Clients /> */}
+      {/* <SubFt />
       <Ft /> */}
     </div>
   );
