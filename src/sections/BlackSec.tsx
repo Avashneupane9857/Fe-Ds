@@ -1,5 +1,5 @@
 function BlackSec() {
-  return <div>BlackSec</div>;
+  return <div className="h-screen text-white"></div>;
 }
 
 export default BlackSec;

@@ -2,7 +2,7 @@ import DsLogo from "./DsLogo.svg"
 import menu from "./menu.svg"
 
 import flower from "./flower.svg"
-
+import radius from "./radius.svg"
 import o from "./o.svg"
 import circles from "./circles.svg"
 import design from "./design.png"
@@ -14,9 +14,15 @@ import icon1 from "./icon1.svg"
 import icon2 from "./icon2.svg"
 import icon3 from "./icon3.svg"
 import icon4 from "./icon4.svg"
+import iconic from "./iconic.svg"
+import box from "./box.svg"
+import women from "./women.png"
+import sunflower from "./sunflower.svg"
+import table from "./table2.png"
+import worm from "./worm.svg"
 export {
     DsLogo,menu,design,flower,o,circles,brand1,brand2,brand4,
-    brand3,icon1,icon2,icon3,icon4,
+    iconic,table, brand3,icon1,icon2,icon3,icon4,radius,box,women,sunflower,worm
     
 
 }
