@@ -5,7 +5,7 @@ function Hero() {
     <div className="relative top-14 ">
       <div className="flex animate-spin flex-col items-center">
         {" "}
-        <img className="w-14" src={flower} alt="" />
+        <img className="w-14 " src={flower} alt="" />
       </div>
 
       <header className=" w-[88%] mx-auto relative top-18 flex justify-between">
@@ -14,7 +14,7 @@ function Hero() {
           act <span>---</span> together
         </div>
         <div className="text-[#EDF738]   ">
-          <img src={design} alt="" />
+          <img src={design} className="Design" alt="" />
           <div className="text-[80px]  text-center -top-1.5 font-bold leading-24 tracking-widest absolute left-0 w-full h-full">
             <h1>REVEAL</h1>
             <h1>THE BE[A]ST</h1>
