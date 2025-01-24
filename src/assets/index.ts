@@ -21,9 +21,15 @@ import sunflower from "./sunflower.svg"
 import table from "./table2.png"
 import worm from "./worm.svg"
 import wordIcon from "./worICon.svg"
+import insta from "./insta.svg"
+import fb from "./face.png"
+import ln from "./lin.png"
+import Be from "./Be.png"
+import pt from "./pt.png"
+import spo from "./spo.png"
 export {
     DsLogo,menu,design,flower,o,circles,brand1,brand2,brand4,
-    iconic,wordIcon,table, brand3,icon1,icon2,icon3,icon4,radius,box,women,sunflower,worm
+    iconic,wordIcon,table, brand3,icon1,icon2,icon3,icon4,radius,box,women,sunflower,worm,insta,fb,ln,Be,pt,spo
     
 
 }
