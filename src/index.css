@@ -6,6 +6,11 @@
   }
 }
 
+body{
+  background-color: #070707;
+  overflow-x: hidden;
+}
+
 .hover\:animate-custom-ping:hover {
   animation: custom-ping 3s cubic-bezier(0, 0, 0.1, 1) infinite;
 }

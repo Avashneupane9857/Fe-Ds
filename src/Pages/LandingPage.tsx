@@ -20,6 +20,7 @@ function LandingPage() {
       <BlackSec />
       <Banner />
       <SubFt />
+      <div className=" md:hidden block h-[100vh]" />
       <Ft />
     </div>
   );
